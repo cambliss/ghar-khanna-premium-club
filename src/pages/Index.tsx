@@ -3,7 +3,6 @@ import React from 'react';
 import Hero from '../components/Hero';
 import TargetAudience from '../components/TargetAudience';
 import SubscriptionPlans from '../components/SubscriptionPlans';
-import ROIForecast from '../components/ROIForecast';
 import PremiumMembership from '../components/PremiumMembership';
 import PartnerDiscounts from '../components/PartnerDiscounts';
 import Testimonials from '../components/Testimonials';
@@ -15,7 +14,6 @@ const Index = () => {
       <Hero />
       <TargetAudience />
       <SubscriptionPlans />
-      <ROIForecast />
       <PremiumMembership />
       <PartnerDiscounts />
       <Testimonials />
